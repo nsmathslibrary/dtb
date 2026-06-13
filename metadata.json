@@ -1,0 +1,6 @@
+{
+  "name": "Exam Registration Portal",
+  "description": "An online exam registration and admit card portal that links dynamically with your Google Sheets and Drive to store student files and details automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
