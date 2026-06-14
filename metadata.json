@@ -1,6 +1,6 @@
 {
   "name": "Exam Registration Portal",
-  "description": "An online exam registration and admit card portal that links dynamically with your Google Sheets and Drive to store student files and details automatically.",
+  "description": "An online student admission and admit card enrollment system for the Deeniyat Primary Course Leaving Certificate Examination 2026-27 under the Deeni Ta'leemi Board, Manipur, synchronizing database entries and student photo uploads automatically to Google Sheets and Drive.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
